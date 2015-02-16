@@ -36,7 +36,8 @@ Tendo utilizado os recursos avançados que se focavam em:
 
 A UFCD foi desenvolvida através de passos simples onde abordámos então vários elementos desta linguagem de programação.
 Realizámos vários mini projectos.
-Na linha de comandos gostei de utilizar o Git,pois isto é tudo muito novo para mim ,porem muito importante.
+Na linha de comandos gostei de utilizar o Git,utilizamos tambem as bibliotecas a Formvalid
+pois isto é tudo muito novo para mim ,porem muito importante.
 Gostei do modo como o formador Francisco nos explicou estes assuntos,pois esta materia vai ser importante para mim se pretender seguir profissionalmente esta profissão .
 
 
